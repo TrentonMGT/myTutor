@@ -1,3 +1,3 @@
 # myTutor
 Teaching GIt
-Students are amazing:-)
+Students are amazing:-
